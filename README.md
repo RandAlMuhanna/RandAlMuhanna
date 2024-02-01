@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @RandAlMuhanna
-- 👀 I’m interested in Mobile Application
-- 🌱 I’m a Developer
+A software developer who is passionate about development, programming, creative UI designs, and cloud computing.
 - 📫 How to reach me Rand.y.almuhanna@gmail.com
 
 <!---
